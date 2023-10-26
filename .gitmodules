@@ -1,0 +1,6 @@
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/dp2genius/Portfolio.git
+[submodule "photography-portfolio"]
+	path = photography-portfolio
+	url = https://github.com/dp2genius/photography-portfolio.git
